@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Ignore setup.py and related files
+setup.py
+setup.cfg
+MANIFEST
+
+# Ignore test file
+test.py
+
+# Ignore the venv dir and its contents
+*bbsforger_venv
+
+# Ignore the MacOS DS_Store file
+.DS_Store

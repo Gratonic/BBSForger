@@ -1,0 +1,10 @@
+[project]
+name = "bbsforger"
+version = "0.1.0"
+# BBSForger
+description = "Python module for building a BBS (Bulletin Board System). Checkout the github (https://github.com/gratonic/bbsforger) for usage information."
+requires-python = ">=3.10"
+dependencies = ["colorama>=0.4.6"]
+
+[tool.setuptools]
+py-modules = ["bbsforger"]
